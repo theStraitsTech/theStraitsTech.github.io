@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: the Straits Tech
 
 # Short description of your site
 description: Tech from the Singapore Straits...
@@ -21,9 +21,10 @@ description: Tech from the Singapore Straits...
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Topics:
+    - Reviews: [review]
+    - Musings: [musings]
+    - Politics: [politics]
   Author's home: "https://github.com/theStraitsTech/theStraitsTech.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -93,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "theStraitsTech.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
